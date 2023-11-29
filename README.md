@@ -6,4 +6,4 @@ This is a torusplotted in a 3D space using the matplotlib (`pip install matplotl
 
 ## Run
 
-
+- Run `python3 torus.py` in a terminal if you have Mac/Linuux.
